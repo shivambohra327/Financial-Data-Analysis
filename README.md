@@ -115,4 +115,63 @@ This project demonstrates how financial data analytics can help organizations:
 - Identify customers who may need retention or re-engagement efforts.
 - Monitor potential credit risk using defined analytical thresholds.
 - Compare customer satisfaction across card categories.
-- Support financial reporting and data-driven business discussions
+- Support financial reporting and data-driven business discussions.
+
+The risk indicators in this project are analytical screening measures and are not a substitute for an institution's approved credit risk policies.
+
+## 📂 Project Structure
+
+```text
+credit-card-customer-analytics/
+│
+├── README.md
+│
+├── dashboard/
+│   └── dashboard_screenshots.png
+│
+├── powerbi/
+│   └── Credit_Card_Analytics.pbix
+│
+├── presentation/
+│   └── Financial_Data_Analysis.pdf
+│
+└── docs/
+    ├── DAX_Measures.md
+    ├── Insights.md
+    └── Data_Dictionary.md
+```
+
+*The file names above illustrate the recommended structure. Add the actual files before presenting them as available in the repository.*
+
+## 🚀 How to Explore the Project
+
+1. Review this README to understand the project objectives and analytical scope.
+2. Open the presentation PDF to explore the project methodology and findings.
+3. View the dashboard screenshots to understand the visual design and KPIs.
+4. Open the Power BI report in Microsoft Power BI Desktop, if the `.pbix` file is available.
+5. Review the DAX documentation to understand the calculations and analytical logic.
+
+## 📚 Skills Demonstrated
+
+- Data analysis and interpretation
+- Power BI dashboard development
+- DAX measures and calculations
+- KPI creation and performance monitoring
+- Time-series and growth analysis
+- Customer segmentation
+- Financial data visualization
+- Analytical problem-solving
+- Business insight communication
+
+## ⚠️ Data Privacy & Limitations
+
+This project is intended for analytical and educational portfolio purposes. Only datasets that are authorized for public distribution should be uploaded. Customer-identifiable or confidential financial information should not be published.
+
+The reported findings reflect the accompanying presentation. DAX calculations, business thresholds, and numerical results should be validated against the actual data model before operational use.
+
+## 👨‍💻 Author
+
+**Shivam Bohra**
+
+Aspiring Data Analyst | Power BI | SQL | Python | Data Visualization
+
